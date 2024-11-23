@@ -11,8 +11,8 @@ namespace assignment16
         {
 
         }
-        public Soldier():base()
-        {}
+        public Soldier() : base()
+        { }
         public override void DisplayInfo()
         {
             Debug.Log("Soldier");

@@ -10,7 +10,7 @@ namespace assignment16
     {
         Soldier soldier1;
         Officer officer;
-        Character[] characterrs = new Character[2];
+        Charecter[] characterrs = new Charecter[2];
 
         void Start()
         {

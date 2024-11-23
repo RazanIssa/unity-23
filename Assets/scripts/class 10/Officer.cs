@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,7 +18,9 @@ namespace assignment16
             base.DisplayInfo();
         }
 
-
-
+        internal void attack(int v1, Soldier soldier1, string v2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
