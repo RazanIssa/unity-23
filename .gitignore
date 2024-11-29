@@ -7,3 +7,7 @@
 /Temp
 /unity 23.sln
 /UserSettings
+/Assets/Scenes/
+*.meta
+/Assets/*
+!/Assets/scripts/
