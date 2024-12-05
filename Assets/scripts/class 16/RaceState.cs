@@ -4,5 +4,6 @@ public enum RaceState
     Accelerate,
     Turn,
     Crash,
-    Finish
+    Finish,
+    pause
 }
